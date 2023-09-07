@@ -1,1 +1,2 @@
-# Eric-Boltjes
+# Vorstellung
+Hallo! Ich bin Eric, aktuell in Ausbildung zum Fachinformatiker für Systemintegration und Technik-Enthusiast. Mein Herz schlägt für die Welt der IT, insbesondere für die Integration und Verwaltung komplexer Systeme. In meiner Freizeit betreibe ich einen eigenen Server, auf dem ich spannende technische Projekte umsetze und meine Fähigkeiten ständig erweitere. Meine Expertise umfasst Docker, Ansible, Kubernetes und Linux. Ich bin auch im Microsoft Ökosystem bewandert und vielseitig einsetzbar. Wenn du Fragen hast oder mit mir zusammenarbeiten möchtest, zögere nicht, mich zu kontaktieren!
